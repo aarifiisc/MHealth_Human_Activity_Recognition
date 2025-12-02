@@ -78,11 +78,11 @@ Standing, Sitting, Lying, Walking, Climbing Stairs, Waist Bends, Arm Elevation, 
 ### **Overall Model Performance**
 | **Model** | **Accuracy** | **Macro F1-Score** |
 |-----------|--------------|--------------------|
-| **XGBoost** | ⭐ **99.42%** | ⭐ **0.9944** |
-| **Random Forest** | 99.20% | 0.9922 |
-| **CNN** | 99.13% | 0.9882 |
-| **LSTM** | 97.45% | 0.9738 |
-| **Transformer** | 90.17% | 0.8434 |
+| **XGBoost** | ⭐ **99.49%** | ⭐ **0.9950** |
+| **Random Forest** | 99.34% | 0.9936 |
+| **CNN** | 99.42% | 0.9943 |
+| **LSTM** | 98.83% | 0.9872 |
+| **Transformer** | 98.98% | 0.9895 |
 
 ---
 
