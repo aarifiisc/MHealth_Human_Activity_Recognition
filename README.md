@@ -1,7 +1,7 @@
 # <u>**Human Activity Recognition Using Multimodal Sensor Data (MHEALTH Dataset)**</u>
 
 ## <u>**Team Members**</u>
-- **Aarif Zafar(aarifzafar@iisc.ac.in) 13-19-01-19-52-25-1-26572 **
+- **Aarif Zafar(aarifzafar@iisc.ac.in) 13-19-01-19-52-25-1-26572**
 - **Navneet Chandan (navneet1@iisc.ac.in)**
 - **Siva Prasad J G (sivaprasad1@iisc.ac.in) 13-19-02-19-52-25-1-26331**
 - **Anjali Sharma (anjali2@iisc.ac.in)**
