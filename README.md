@@ -88,7 +88,6 @@ Standing, Sitting, Lying, Walking, Climbing Stairs, Waist Bends, Arm Elevation, 
 
 ## <u>**Key Findings**</u>
 - **XGBoost** delivered the best overall performance.  
-- **Random Forest** and **CNN** showed near-perfect classification accuracy.  
+- **Random Forest** , **Transformer** and **CNN** showed near-perfect classification accuracy.  
 - **LSTM** struggled slightly with similar activities such as *Jogging vs Running*.  
-- **Transformer** underperformed due to relatively small dataset size.  
 - Multimodal
